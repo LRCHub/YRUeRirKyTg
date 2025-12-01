@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "RHYTHM EMOTION",
+  "base_artist": "TWO-MIX",
+  "createdAt": "2025-12-01T15:40:56.482210Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RHYTHM EMOTION",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/01_RHYTHM_EMOTION_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RHYTHM EMOTION",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/02_RHYTHM_EMOTION_TWO-MIX.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rhythm Emotion",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/03_Rhythm_Emotion_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rhythm Emotion",
+      "artist": "Two-Mix",
+      "has_synced": true,
+      "path": "select/04_Rhythm_Emotion_Two-Mix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "rhythm emotion",
+      "artist": "twomix",
+      "has_synced": true,
+      "path": "select/05_rhythm_emotion_twomix.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rhythm Emotion (International)",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/06_Rhythm_Emotion_(International)_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rhythm Emotion",
+      "artist": "Anime Project",
+      "has_synced": false,
+      "path": "select/07_Rhythm_Emotion_Anime_Project.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RHYTHM EMOTION・PURE",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_01_RHYTHM_EMOTION・PURE_TWO-MIX.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "RHYTHM EMOTION",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_02_RHYTHM_EMOTION_TWO-MIX.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rhythm Emotion",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_03_Rhythm_Emotion_TWO-MIX.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Rhythm Emotion",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_04_Rhythm_Emotion_TWO-MIX.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "RHYTHM EMOTION",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_05_RHYTHM_EMOTION_TWO-MIX.txt"
+    }
+  ]
+}
